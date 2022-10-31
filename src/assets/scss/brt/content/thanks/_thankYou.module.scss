@@ -1,0 +1,60 @@
+/* LEFT GRID */
+.tha-left-grid {
+  height: 620px;
+  //border: 2px solid black;
+}
+
+/* MIDDLE GRID */
+.tha-middle-grid {
+  position: relative;
+  height: 620px;
+  //border: 2px dashed red;
+
+  .header {
+    display: table;
+    margin: 30% auto 0 auto;
+    //border: 2px dashed blue;
+
+    img {
+      width: 48px;
+      height: 48px;
+    }
+
+    h1 {
+      font-size: 36px;
+      font-weight: bold;
+      color: ($primaryMain);
+    }
+  }
+
+  .content {
+    display: table;
+    margin: 5% auto 0 auto;
+    //border: 2px dashed blue;
+
+    h2 {
+      font-size: 26px;
+      font-weight: bold;
+      color: ($primaryMain);
+    }
+
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      color: ($grey900);
+    }
+  }
+
+  .back-button {
+    height: 3rem;
+    color: #ffffff;
+    background-color: ($primaryDark);
+    border-radius: 0;
+  }
+}
+
+/* RIGHT GRID */
+.tha-right-grid {
+  height: 620px;
+  //border: 2px solid green;
+}

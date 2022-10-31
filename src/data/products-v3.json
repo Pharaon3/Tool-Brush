@@ -1,0 +1,453 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "en": "Interdental",
+      "sv": "Interdental",
+      "da": "Interdental"
+    },
+    "catImg": "original.png",
+    "data": [
+      {
+        "id": "1:1",
+        "name": {
+          "en": "Pink",
+          "sv": "Rosa",
+          "da": "Lyserød"
+        },
+        "size": "0.4",
+        "hex": "#d27498",
+        "image": "original/pink-original.jpg"
+      },
+      {
+        "id": "1:2",
+        "name": {
+          "en": "Orange",
+          "sv": "Orange",
+          "da": "Orange"
+        },
+        "size": "0.45",
+        "hex": "#db6616",
+        "image": "original/orange-original.jpg"
+      },
+      {
+        "id": "1:3",
+        "name": {
+          "en": "Red",
+          "sv": "Röd",
+          "da": "Rød"
+        },
+        "size": "0.5",
+        "hex": "#b8100f",
+        "image": "original/red-original.jpg"
+      },
+      {
+        "id": "1:4",
+        "name": {
+          "en": "Blue",
+          "sv": "Blå",
+          "da": "Blå"
+        },
+        "size": "0.6",
+        "hex": "#41b4d1",
+        "image": "original/blue-original.jpg"
+      },
+      {
+        "id": "1:5",
+        "name": {
+          "en": "Yellow",
+          "sv": "Gul",
+          "da": "Gul"
+        },
+        "size": "0.7",
+        "hex": "#e7ca30",
+        "image": "original/yellow-original.jpg"
+      },
+      {
+        "id": "1:6",
+        "name": {
+          "en": "Green",
+          "sv": "Grön",
+          "da": "Grøn"
+        },
+        "size": "0.8",
+        "hex": "#7c9f4b",
+        "image": "original/green-original.jpg"
+      },
+      {
+        "id": "1:7",
+        "name": {
+          "en": "Purple",
+          "sv": "Lila",
+          "da": "Lilla"
+        },
+        "size": "1.1",
+        "hex": "#7855b9",
+        "image": "original/purple-original.jpg"
+      },
+      {
+        "id": "1:8",
+        "name": {
+          "en": "Grey",
+          "sv": "Grå",
+          "da": "Grå"
+        },
+        "size": "1.3",
+        "hex": "#939393",
+        "image": "original/grey-original.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": {
+      "en": "Interdental Soft",
+      "sv": "Interdental Soft",
+      "da": "Interdental Soft"
+    },
+    "catImg": "soft.png",
+    "data": [
+      {
+        "id": "2:1",
+        "name": {
+          "en": "Soft Orange",
+          "sv": "Soft Orange",
+          "da": "Soft Orange"
+        },
+        "size": "0.45",
+        "hex": "#fbad41",
+        "image": "soft/orange-soft.jpg"
+      },
+      {
+        "id": "2:2",
+        "name": {
+          "en": "Soft Red",
+          "sv": "Soft Red",
+          "da": "Soft Red"
+        },
+        "size": "0.5",
+        "hex": "#e72e29",
+        "image": "soft/red-soft.jpg"
+      },
+      {
+        "id": "2:3",
+        "name": {
+          "en": "Soft Blue",
+          "sv": "Soft Blue",
+          "da": "Soft Blue"
+        },
+        "size": "0.6",
+        "hex": "#bedbeb",
+        "image": "soft/blue-soft.jpg"
+      },
+      {
+        "id": "2:4",
+        "name": {
+          "en": "Soft Yellow",
+          "sv": "Soft Yellow",
+          "da": "Soft Yellow"
+        },
+        "size": "0.7",
+        "hex": "#ffeda3",
+        "image": "soft/yellow-soft.jpg"
+      },
+      {
+        "id": "2:5",
+        "name": {
+          "en": "Soft Green",
+          "sv": "Soft Green",
+          "da": "Soft Green"
+        },
+        "size": "0.8",
+        "hex": "#d6e4a6",
+        "image": "soft/green-soft.jpg"
+      },
+      {
+        "id": "2:6",
+        "name": {
+          "en": "Soft Purple",
+          "sv": "Soft Purple",
+          "da": "Soft Purple"
+        },
+        "size": "1.1",
+        "hex": "#c8b4e9",
+        "image": "soft/purple-soft.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": {
+      "en": "Angle™",
+      "sv": "Angle™",
+      "da": "Angle™"
+    },
+    "catImg": "angle.png",
+    "data": [
+      {
+        "id": "3:1",
+        "name": {
+          "en": "Pink",
+          "sv": "Pink",
+          "da": "Pink"
+        },
+        "size": "0.4",
+        "hex": "#d14d89",
+        "image": "angle/pink-angle.jpg"
+      },
+      {
+        "id": "3:2",
+        "name": {
+          "en": "Orange",
+          "sv": "Orange",
+          "da": "Orange"
+        },
+        "size": "0.45",
+        "hex": "#e24f02",
+        "image": "angle/orange-angle.jpg"
+      },
+      {
+        "id": "3:3",
+        "name": {
+          "en": "Red",
+          "sv": "Red",
+          "da": "Red"
+        },
+        "size": "0.5",
+        "hex": "#c3404e",
+        "image": "angle/red-angle.jpg"
+      },
+      {
+        "id": "3:4",
+        "name": {
+          "en": "Blue",
+          "sv": "Blue",
+          "da": "Blue"
+        },
+        "size": "0.6",
+        "hex": "#7fc9e2",
+        "image": "angle/blue-angle.jpg"
+      },
+      {
+        "id": "3:5",
+        "name": {
+          "en": "Yellow",
+          "sv": "Yellow",
+          "da": "Yellow"
+        },
+        "size": "0.7",
+        "hex": "#fadf50",
+        "image": "angle/yellow-angle.jpg"
+      },
+      {
+        "id": "3:6",
+        "name": {
+          "en": "Green",
+          "sv": "Green",
+          "da": "Green"
+        },
+        "size": "0.8",
+        "hex": "#afc891",
+        "image": "angle/green-angle.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": {
+      "en": "Easy",
+      "sv": "Easy",
+      "da": "Easy"
+    },
+    "catImg": "easy.png",
+    "data": [
+      {
+        "id": "4:1",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "X-Small/Small",
+        "hex": "#df4201",
+        "image": "easy/xsmall-small.jpg"
+      },
+      {
+        "id": "4:2",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "Medium/Large",
+        "hex": "#006ea1",
+        "image": "easy/medium-large.jpg"
+      },
+      {
+        "id": "4:3",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "Extra Large",
+        "hex": "#5038a3",
+        "image": "easy/extra-large.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": {
+      "en": "Dental",
+      "sv": "Dental",
+      "da": "Dental"
+    },
+    "catImg": "dental.png",
+    "data": [
+      {
+        "id": "5:1",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "Dental 40m",
+        "hex": "#569810",
+        "image": "dental/dental.jpg"
+      },
+      {
+        "id": "5:2",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "GOOD Mini Flosser™",
+        "hex": "#96112",
+        "image": "dental/mini-flosser.jpg"
+      },
+      {
+        "id": "5:3",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "Bridge & Implant Floss™",
+        "hex": "#00cede",
+        "image": "dental/implant-floss.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": {
+      "en": "Special",
+      "sv": "Special",
+      "da": "Special"
+    },
+    "catImg": "special.png",
+    "data": [
+      {
+        "id": "6:1",
+        "name": {
+          "en": "Compact",
+          "sv": "Compact",
+          "da": "Compact"
+        },
+        "size": "",
+        "hex": "#a2efff",
+        "image": "special/compact-tuft.jpg"
+      },
+      {
+        "id": "6:2",
+        "name": {
+          "en": "Denture",
+          "sv": "Denture",
+          "da": "Denture"
+        },
+        "size": "",
+        "hex": "#fe9196",
+        "image": "special/denture-care.jpg"
+      },
+      {
+        "id": "6:3",
+        "name": {
+          "en": "Gental",
+          "sv": "Gental",
+          "da": "Gental"
+        },
+        "size": "",
+        "hex": "#a9cbcd",
+        "image": "special/gentle-care.jpg"
+      },
+      {
+        "id": "6:4",
+        "name": {
+          "en": "Implant Ort",
+          "sv": "Implant Ort",
+          "da": "Implant Ort™"
+        },
+        "size": "",
+        "hex": "#293fd8",
+        "image": "special/implant-orthodontic.jpg"
+      },
+      {
+        "id": "6:5",
+        "name": {
+          "en": "Interspace",
+          "sv": "Interspace",
+          "da": "Interspace"
+        },
+        "size": "",
+        "hex": "#f46555",
+        "image": "special/interspace.jpg"
+      },
+      {
+        "id": "6:6",
+        "name": {
+          "en": "Special",
+          "sv": "Special",
+          "da": "Special"
+        },
+        "size": "",
+        "hex": "#720200",
+        "image": "special/special-care.jpg"
+      },
+      {
+        "id": "6:7",
+        "name": {
+          "en": "Universal",
+          "sv": "Universal",
+          "da": "Universal"
+        },
+        "size": "",
+        "hex": "#000094",
+        "image": "special/universal-care.jpg"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": {
+      "en": "Accessories",
+      "sv": "Accessories",
+      "da": "Accessories"
+    },
+    "catImg": "accessoies.png",
+    "data": [
+      {
+        "id": "7:1",
+        "name": {
+          "en": "Tongue Cleaner",
+          "sv": "Tongue Cleaner",
+          "da": "Tongue Cleaner"
+        },
+        "size": "",
+        "hex": "#b9daba",
+        "image": "accessories/tongue-cleaner.jpg"
+      }
+    ]
+  }
+]
