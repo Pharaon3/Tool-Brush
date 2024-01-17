@@ -25,7 +25,7 @@ interface Props {
   children: ReactNode;
 }
 
-export default function ThemeCustomization() {
+export default function ThemeCustomization({ children }: Props) {
   const {
     borderRadius,
     fontFamily,

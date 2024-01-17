@@ -14,6 +14,7 @@ import { StorageProvider } from 'contexts/StorageContext';
 // ==============================|| APP ||============================== //
 
 const App = () => (
+  <ThemeCustomization>
     {/* RTL Layout */}
     <RTLLayout>
       <Locales>
@@ -27,6 +28,7 @@ const App = () => (
         </NavigationScroll>
       </Locales>
     </RTLLayout>
+  </ThemeCustomization>
 );
 
 export default App;

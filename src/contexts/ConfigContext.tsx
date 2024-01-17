@@ -42,48 +42,56 @@ function ConfigProvider({ children }: ConfigProviderProps) {
 
   const onChangeMenuType = (navType: PaletteMode) => {
     setConfig({
+      ...config,
       navType,
     });
   };
 
   const onChangePresetColor = (presetColor: string) => {
     setConfig({
+      ...config,
       presetColor,
     });
   };
 
   const onChangeLocale = (locale: string) => {
     setConfig({
+      ...config,
       locale,
     });
   };
 
   const onChangeRTL = (rtlLayout: boolean) => {
     setConfig({
+      ...config,
       rtlLayout,
     });
   };
 
   const onChangeContainer = () => {
     setConfig({
+      ...config,
       container: !config.container,
     });
   };
 
   const onChangeFontFamily = (fontFamily: string) => {
     setConfig({
+      ...config,
       fontFamily,
     });
   };
 
   const onChangeBorderRadius = (event: Event, newValue: number | number[]) => {
     setConfig({
+      ...config,
       borderRadius: newValue as number,
     });
   };
 
   const onChangeOutlinedField = (outlinedFilled: boolean) => {
     setConfig({
+      ...config,
       outlinedFilled,
     });
   };
@@ -91,6 +99,7 @@ function ConfigProvider({ children }: ConfigProviderProps) {
   return (
     <ConfigContext.Provider
       value={{
+        ...config,
         onChangeMenuType,
         onChangePresetColor,
         onChangeLocale,
